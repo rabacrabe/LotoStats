@@ -1,0 +1,13 @@
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\LotoStats.exe
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\LotoStats.deps.json
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\LotoStats.runtimeconfig.json
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\LotoStats.runtimeconfig.dev.json
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\LotoStats.dll
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\LotoStats.pdb
+E:\Gael\workspace\LotoStats\obj\Debug\netcoreapp3.1\LotoStats.csprojAssemblyReference.cache
+E:\Gael\workspace\LotoStats\obj\Debug\netcoreapp3.1\LotoStats.AssemblyInfoInputs.cache
+E:\Gael\workspace\LotoStats\obj\Debug\netcoreapp3.1\LotoStats.AssemblyInfo.cs
+E:\Gael\workspace\LotoStats\obj\Debug\netcoreapp3.1\LotoStats.dll
+E:\Gael\workspace\LotoStats\obj\Debug\netcoreapp3.1\LotoStats.pdb
+E:\Gael\workspace\LotoStats\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\Gael\workspace\LotoStats\obj\Debug\netcoreapp3.1\LotoStats.csproj.CopyComplete
